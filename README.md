@@ -7,4 +7,4 @@ Full documentation watch on original version for jQuery => https://github.com/ak
 I don't have ZeptoJS demo. watch jQuery version http://akquinet.github.com/jquery-toastmessage-plugin/
 
 I kill some initial options (inEffect and inEffectDuration). They are replaced by show() method instead animate().
-You need to correct the CSS if you don't like it :)
+You need to correct the CSS if you don't like it :) Finita =)
